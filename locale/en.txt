@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_F44D9898_FF46_01ED_41E4_F3DAA11F5B63.label = R0020209_HDR
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Disable Right Click
